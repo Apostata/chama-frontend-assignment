@@ -53,3 +53,11 @@ During the assessment, we will look into the following points:
 Happy coding!
 
 <img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" data-canonical-src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="150" height="150" />
+
+
+## Rene
+### Instalation
+`npm i` or `yarn install`
+
+### Run Project
+`npm start` ;)
